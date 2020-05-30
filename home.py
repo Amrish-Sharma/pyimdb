@@ -8,7 +8,7 @@ from ViewBooks import *
 from SearchBook import *
 from IssueBook import *
 
-# Add your own database name and password here to reflect in the code
+# Add your own database name and password here to reflect in the code and 
 mypass = "1234"
 mydatabase="rcpl_db"
 
